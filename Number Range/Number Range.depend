@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607163806 source:c:\users\jeter\desktop\c project\number range\main.c
+	<stdio.h>
+	<stdlib.h>
+
